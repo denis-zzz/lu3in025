@@ -3,7 +3,7 @@ Created on 6 fevr. 2020
 
 @author: Denis
 '''
-#@UnresolvedImport
+
 from etudiant_opti.gael_shapley_etu import gael_shapley_etu
 from master_opti.gael_shapley_master import gael_shapley_master
 import sys
