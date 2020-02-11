@@ -4,8 +4,8 @@ Created on 6 fevr. 2020
 @author: Denis
 '''
 
-from tme1.Lecture.lecture_fichier import lecture_fichiers as lecture
-from tme1.Utile import utile
+from lecture.lecture_fichier import lecture_fichiers as lecture
+from utile import utile
 from copy import deepcopy, copy
 
 def gael_shapley_etu(fichier1, fichier2):

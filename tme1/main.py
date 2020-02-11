@@ -3,9 +3,9 @@ Created on 6 fevr. 2020
 
 @author: Denis
 '''
-
-from tme1.Etudiant_opti.gael_shapley_etu import gael_shapley_etu
-from tme1.Master_opti.gael_shapley_master import gael_shapley_master
+#@UnresolvedImport
+from etudiant_opti.gael_shapley_etu import gael_shapley_etu
+from master_opti.gael_shapley_master import gael_shapley_master
 import sys
 
 if __name__ == '__main__':
