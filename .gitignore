@@ -1,4 +1,5 @@
 *.pydevproject
 *.project
+*.pyc
 .metadata
 __pycache__/
